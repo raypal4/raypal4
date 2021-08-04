@@ -10,7 +10,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Material Design](https://img.shields.io/badge/-Material-Design-black?style=flat-square&logo=Material%20Design&logoColor=white)
+![Material Design](https://img.shields.io/badge/-Material Design-black?style=flat-square&logo=Material%20Design&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 ![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=WordPress)
 
