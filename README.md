@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raypal4&repo=supersecretproject&theme=dark" />
 </a>
 
-<h2>Social Media</h2>
+<h2>Let's Connect!</h2>
 
 <p align = "center">
  
