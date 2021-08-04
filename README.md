@@ -11,7 +11,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Material](https://img.shields.io/badge/-Material-Design-181717?style=flat-square&logo=Material%20Design)
+![Material](https://img.shields.io/badge/-Material-ff69b4?style=flat-square&logo=Material%20Design)
+
+https://img.shields.io/endpoint?color=hi&label=hi&logo=material%20design&logoColor=white&style=flat-square
 
 <a href="https://github.com/raypal4">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raypal4&show_icons=true&theme=dark" />
