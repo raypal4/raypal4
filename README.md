@@ -1,6 +1,4 @@
-### Hello there 👋
-
-<h2>My Experience</h2>
+<h2>Hi! </h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
