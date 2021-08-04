@@ -14,6 +14,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raypal4&repo=supersecretproject&theme=dark" />
 </a>
 
+<summary><h2>Social Media</h2></summary>
+
+<p align = "center">
+ 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/raynold-tan-%E9%99%88%E5%8B%87%E4%BB%BB-2aa011191/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/raynoldtyr/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/raynoldtyr/) 
+[![Visits Badge](https://badges.pufler.dev/visits/RahulMahesh62/RahulMahesh62?style=for-the-badge)](https://github.com/RahulMahesh62)
 
 <!--
 **raypal4/raypal4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
