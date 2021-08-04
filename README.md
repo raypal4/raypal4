@@ -4,11 +4,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raypal4)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raypal4&repo=github-readme-stats" />
+<a href="/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raypal4&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raypal4&repo=convoychat" />
+<a href="/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raypal4)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 
 
