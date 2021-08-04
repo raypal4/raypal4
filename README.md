@@ -14,13 +14,6 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 
 
-<a href="https://github.com/raypal4">
-  <img align="center" src="https://github-readme-stats-raypal4.vercel.app/api?username=raypal4&count_private=true&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/raypal4">
-  <img align="center" src="https://github-readme-stats-raypal4.vercel.app/api/top-langs/?username=raypal4&count_private=true&theme=dark" />
-</a>
-
 <a href="https://github.com/raypal4/Hotdog-Not-Hotdog">
   <img align="center" src="https://github-readme-stats-raypal4.vercel.app/api/pin/?username=raypal4&repo=Hotdog-Not-Hotdog&theme=dark" />
 </a>
