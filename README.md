@@ -7,6 +7,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raypal4&theme=dark" />
 </a>
 
+<a href="https://github.com/raypal4/Hotdog-Not-Hotdog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raypal4&repo=Hotdog-Not-Hotdog" />
+</a>
+<a href="https://github.com/raypal4/supersecretproject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raypal4&repo=supersecretproject" />
+</a>
+
 
 <!--
 **raypal4/raypal4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
