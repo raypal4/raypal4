@@ -10,7 +10,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Material](https://img.shields.io/endpoint?color=%20%20%20%20&label=%20Material%20Design&logo=Material%20Design&logoColor=white&url=%2F)
+![Material](https://img.shields.io/-Material-?logo=Material%20Design&logoColor=white)
 
 <a href="https://github.com/raypal4">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raypal4&show_icons=true&theme=dark" />
