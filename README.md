@@ -1,14 +1,10 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raypal4&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raypal4)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=raypal4&show_icons=true&theme=dracula" />
 </a>
 <a href="/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raypal4)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raypal4" />
 </a>
 
 
