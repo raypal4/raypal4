@@ -9,7 +9,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/materialdesign?style=flat-square&logo=github)
+
 ![Material](https://img.shields.io/badge/-Material-Design-181717?style=flat-square&logo=Material%20Design)
 
 <a href="https://github.com/raypal4">
