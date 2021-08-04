@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raypal4&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raypal4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raypal4)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **raypal4/raypal4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
