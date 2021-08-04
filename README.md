@@ -12,7 +12,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Material Design](https://img.shields.io/badge/-Material-black?style=flat-square&logo=Material%20Design&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
-![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=WordPress)
+![WordPress](https://img.shields.io/badge/-WordPress-black?style=for-the-badge&logo=WordPress)
 
 <a href="https://github.com/raypal4">
   <img align="center" src="https://github-readme-stats-raypal4.vercel.app/api?username=raypal4&count_private=true&show_icons=true&theme=dark" />
