@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raypal4&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raypal4&show_icons=true&theme=dark" />
 </a>
 <a href="/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raypal4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raypal4&theme=dark" />
 </a>
 
 
