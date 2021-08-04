@@ -13,10 +13,10 @@
 ![Material](https://img.shields.io/badge/-Material-black?style=flat-square&logo=Material%20Design&logoColor=white)
 
 <a href="https://github.com/raypal4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raypal4&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raypal4&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/raypal4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raypal4&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raypal4&count_private=true&theme=dark" />
 </a>
 
 <a href="https://github.com/raypal4/Hotdog-Not-Hotdog">
