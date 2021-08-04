@@ -14,19 +14,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<a href="https://github.com/raypal4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raypal4&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/raypal4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raypal4&theme=dark" />
-</a>
 
-<a href="https://github.com/raypal4/Hotdog-Not-Hotdog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raypal4&repo=Hotdog-Not-Hotdog&theme=dark" />
-</a>
-<a href="https://github.com/raypal4/supersecretproject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raypal4&repo=supersecretproject&theme=dark" />
-</a>
 
 <h2>Let's Connect!</h2>
 
