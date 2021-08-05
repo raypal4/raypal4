@@ -1,8 +1,9 @@
 <h2>Currently Working On...</h2>
 
-![<a href="https://raypal4.github.io/">New Pearsonal React Application!</a>](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+<a href="https://raypal4.github.io/">New Pearsonal React Application!</a>
 
-
+[<img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />](https://raypal4.github.io)
 
 <h2>My Technical Experience</h2>
 
