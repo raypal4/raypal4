@@ -17,12 +17,10 @@
 
 <h2>GitHub Stats</h2>
 
-<a href="https://github.com/raypal4">
-  <img align="center" src="https://github-readme-stats-raypal4.vercel.app/api?username=raypal4&count_private=true&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/raypal4">
-  <img align="center" src="https://github-readme-stats-raypal4.vercel.app/api/top-langs/?username=raypal4&count_private=true&langs_count=3&theme=dark" />
-</a>
+<img align="center" src="https://github-readme-stats-raypal4.vercel.app/api?username=raypal4&count_private=true&show_icons=true&theme=dark" />
+
+<img align="center" src="https://github-readme-stats-raypal4.vercel.app/api/top-langs/?username=raypal4&count_private=true&langs_count=8&layout=compact&theme=dark" />
+
 
 <a href="https://github.com/raypal4/Hotdog-Not-Hotdog">
   <img align="center" src="https://github-readme-stats-raypal4.vercel.app/api/pin/?username=raypal4&repo=Hotdog-Not-Hotdog&theme=dark" />
