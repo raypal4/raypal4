@@ -1,6 +1,6 @@
 <h2>Currently Working On...</h2>
 
-![React](https://img.shields.io/badge/-React-Blue?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-React-Black?style=for-the-badge&logo=react)
 
 <a href="https://raypal4.github.io/">New Pearsonal React Application!</a>
 
