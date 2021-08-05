@@ -5,7 +5,7 @@
 
 ![Under Construction](https://github.com/raypal4/raypal4/blob/main/construction.gif "Konstruction")
 
-<p>Link Here: </p><a href='https://raypal4.github.io'>https://raypal4.github.io</a>
+<p>Link Here: <a href='https://raypal4.github.io'>https://raypal4.github.io</a></p>
 
 <p>and school work of course ~ </p>
 
