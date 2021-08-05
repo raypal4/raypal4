@@ -1,7 +1,7 @@
 <h2>Currently Working On...</h2>
 
-<img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/-Node-black?style=for-the-badge&logo=Node" />
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node.js)
 
 <a href='https://raypal4.github.io'>https://raypal4.github.io</a>
 
