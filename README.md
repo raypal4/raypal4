@@ -17,11 +17,11 @@
 
 <h2>GitHub Stats</h2>
 
-<a>
+<a href="https://github.com/raypal4">
   <img align="center" src="https://github-readme-stats-raypal4.vercel.app/api?username=raypal4&count_private=true&show_icons=true&theme=dark" />
 </a>
 
-<a>
+<a href="https://github.com/raypal4">
   <img align="center" src="https://github-readme-stats-raypal4.vercel.app/api/top-langs/?username=raypal4&count_private=true&langs_count=3&hide=jupiter%20notebook&theme=dark"/>
 </a>
 
