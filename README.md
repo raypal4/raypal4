@@ -3,6 +3,8 @@
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node.js)
 
+![Under Construction](https://github.com/raypal4/raypal4/blob/main/construction.gif "Konstruction")
+
 <a href='https://raypal4.github.io'>https://raypal4.github.io</a>
 
 <p>and school work of course ~ </p>
