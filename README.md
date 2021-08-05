@@ -1,14 +1,3 @@
-<h2>Currently Working On...</h2>
-
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node.js)
-
-![Under Construction](https://github.com/raypal4/raypal4/blob/main/construction.gif "Konstruction")
-
-<p>Link Here: <a href='https://raypal4.github.io'>https://raypal4.github.io</a></p>
-
-<p>and school work of course ~ </p>
-
 <h2>My Technical Experience</h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
@@ -36,13 +25,23 @@
   <img align="center" src="https://github-readme-stats-raypal4.vercel.app/api/top-langs/?username=raypal4&count_private=true&langs_count=3&hide=jupyter%20notebook&theme=dark"/>
 </a>
 
-
 <a href="https://github.com/raypal4/Hotdog-Not-Hotdog">
   <img align="center" src="https://github-readme-stats-raypal4.vercel.app/api/pin/?username=raypal4&repo=Hotdog-Not-Hotdog&theme=dark" />
 </a>
 <a href="https://github.com/raypal4/supersecretproject">
   <img align="center" src="https://github-readme-stats-raypal4.vercel.app/api/pin/?username=raypal4&repo=supersecretproject&theme=dark" />
 </a>
+
+<h2>Currently Working On...</h2>
+
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node.js)
+
+![Under Construction](https://github.com/raypal4/raypal4/blob/main/construction.gif "Konstruction")
+
+<p>Link Here: <a href='https://raypal4.github.io'>https://raypal4.github.io</a></p>
+
+<p>and school work of course ~ </p>
 
 <h2>Let's Connect!</h2>
 
