@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://github.com/raypal4">
-  <img align="center" src="https://github-readme-stats-raypal4.vercel.app/api/top-langs/?username=raypal4&count_private=true&langs_count=3&hide=jupiter%20notebook&theme=dark"/>
+  <img align="center" src="https://github-readme-stats-raypal4.vercel.app/api/top-langs/?username=raypal4&count_private=true&langs_count=3&hide=jupyter%20notebook&theme=dark"/>
 </a>
 
 
