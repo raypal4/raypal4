@@ -19,7 +19,7 @@
 
 <img align="center" src="https://github-readme-stats-raypal4.vercel.app/api?username=raypal4&count_private=true&show_icons=true&theme=dark" />
 
-<img align="center" src="https://github-readme-stats-raypal4.vercel.app/api/top-langs/?username=raypal4&count_private=true&langs_count=8&layout=compact&theme=dark" />
+<img align="center" src="https://github-readme-stats-raypal4.vercel.app/api/top-langs/?username=raypal4&count_private=true&langs_count=3&hide=jupiter%20notebook&theme=dark" />
 
 
 <a href="https://github.com/raypal4/Hotdog-Not-Hotdog">
