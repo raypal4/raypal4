@@ -52,10 +52,10 @@
 
 <!-- ![Under Construction](https://github.com/raypal4/raypal4/blob/main/construction.gif "Konstruction")
  -->
-<img align="left" height="300px" src="https://github.com/raypal4/raypal4/blob/main/construction.gif"/>
+<img align="right" height="300px" src="https://github.com/raypal4/raypal4/blob/main/construction.gif"/>
                                   
-<p align="right">Link Here: <a href='https://raypal4.github.io'>https://raypal4.github.io</a></p>
-<p align="right">and school work of course ~ </p>
+<p align="left">Link Here: <a href='https://raypal4.github.io'>https://raypal4.github.io</a></p>
+<p align="left">and school work of course ~ </p>
 
 <br>
 <br>
