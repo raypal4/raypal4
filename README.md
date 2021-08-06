@@ -13,7 +13,7 @@
 <br>
 <h2>Language and Tools</h2>
 
-<p text-align="center">
+<p align="center">
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
@@ -35,18 +35,18 @@
 <h2>GitHub Stats</h2>
 
 <a href="https://github.com/raypal4">
-  <img align="center" src="https://github-readme-stats-raypal4.vercel.app/api?username=raypal4&count_private=true&show_icons=true&theme=dark" />
+  <img align="left" src="https://github-readme-stats-raypal4.vercel.app/api?username=raypal4&count_private=true&show_icons=true&theme=dark" />
 </a>
 
 <a href="https://github.com/raypal4">
-  <img align="center" src="https://github-readme-stats-raypal4.vercel.app/api/top-langs/?username=raypal4&count_private=true&langs_count=3&hide=jupyter%20notebook&theme=dark"/>
+  <img align="right" src="https://github-readme-stats-raypal4.vercel.app/api/top-langs/?username=raypal4&count_private=true&langs_count=3&hide=jupyter%20notebook&theme=dark"/>
 </a>
 
 <a href="https://github.com/raypal4/Hotdog-Not-Hotdog">
-  <img align="center" src="https://github-readme-stats-raypal4.vercel.app/api/pin/?username=raypal4&repo=Hotdog-Not-Hotdog&theme=dark" />
+  <img align="left" src="https://github-readme-stats-raypal4.vercel.app/api/pin/?username=raypal4&repo=Hotdog-Not-Hotdog&theme=dark" />
 </a>
 <a href="https://github.com/raypal4/supersecretproject">
-  <img align="center" src="https://github-readme-stats-raypal4.vercel.app/api/pin/?username=raypal4&repo=supersecretproject&theme=dark" />
+  <img align="right" src="https://github-readme-stats-raypal4.vercel.app/api/pin/?username=raypal4&repo=supersecretproject&theme=dark" />
 </a>
 
 <h2>Currently Working On...</h2>
