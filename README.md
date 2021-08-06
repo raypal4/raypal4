@@ -1,4 +1,4 @@
-<img align="right" style="margin-right: 150px" height="300px" src="https://github.com/raypal4/raypal4/blob/main/coffee.gif"/>
+<img align="right" margin-right="150px" height="300px" src="https://github.com/raypal4/raypal4/blob/main/coffee.gif"/>
 
 <h2>Hello world! I'm Ray!</h2>
 
