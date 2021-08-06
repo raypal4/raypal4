@@ -13,7 +13,7 @@
 <br>
 <h2>Language and Tools</h2>
 
-<p align="center">
+<p text-align="center">
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
