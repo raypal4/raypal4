@@ -63,11 +63,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 <h2>Let's Connect!</h2>
  
