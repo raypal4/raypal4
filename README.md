@@ -1,4 +1,4 @@
-<img align="right" height="400px" src="https://github.com/raypal4/raypal4/blob/main/coffee.gif"/>
+<img align="right" height="350px" src="https://github.com/raypal4/raypal4/blob/main/coffee.gif"/>
 
 
 <h2>Hello world! I'm Ray!</h2>
@@ -11,8 +11,6 @@
 - 🌱 &nbsp; Always excited about any new technologies.
 - :musical_keyboard: &nbsp; Playing random songs i like on youtube
 - ☕ &nbsp; Coffee makes the world go round. 
-<br>
-<br>
 <br>
 <br>
 <br>
