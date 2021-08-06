@@ -1,10 +1,10 @@
 <h2>Hello world! I'm Ray!</h2>
 
 - 🔭 &nbsp; I’m currently learning React Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Love the hands on experience.
 - 🎓 &nbsp; Studying Software Engineering 
-- 💼 &nbsp; Full-Stack Web Developer.
-- 🌱 &nbsp; Excited about any new technologies.
+- 💼 &nbsp; Aspiring Full-Stack Developer.
+- 🌱 &nbsp; Always excited about any new technologies.
 - :musical_keyboard: &nbsp; Playing random songs i like on youtube
 - ☕ &nbsp; Coffee makes the world go round. 
 
