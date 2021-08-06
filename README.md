@@ -11,7 +11,9 @@
 - 🌱 &nbsp; Always excited about any new technologies.
 - :musical_keyboard: &nbsp; Playing random songs i like on youtube
 - ☕ &nbsp; Coffee makes the world go round. 
-
+<br>
+<br>
+<br>
 <br>
 <br>
 <h2>Language and Tools</h2>
