@@ -8,6 +8,8 @@
 - :musical_keyboard: &nbsp; Playing random songs i like on youtube
 - ☕ &nbsp; Coffee makes the world go round. 
 
+<img align="right" src="https://github.com/raypal4/raypal4/blob/main/coffee.gif"/>
+
 <h2>Language and Tools</h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
