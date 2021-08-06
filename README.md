@@ -1,6 +1,6 @@
 <h2>Hello world! I'm Ray!</h2>
 
-<img align="right" width="100px" src="https://github.com/raypal4/raypal4/blob/main/coffee.gif"/>
+<img align="right" height="300px" src="https://github.com/raypal4/raypal4/blob/main/coffee.gif"/>
 
 - 🔭 &nbsp; I’m currently learning React Development
 - 🤔 &nbsp; Love the hands on experience.
