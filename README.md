@@ -43,10 +43,10 @@
 </a>
 
 <a href="https://github.com/raypal4/Hotdog-Not-Hotdog">
-  <img align="center" src="https://github-readme-stats-raypal4.vercel.app/api/pin/?username=raypal4&repo=Hotdog-Not-Hotdog&theme=dark" />
+  <img align="center" width="410" src="https://github-readme-stats-raypal4.vercel.app/api/pin/?username=raypal4&repo=Hotdog-Not-Hotdog&theme=dark" />
 </a>
 <a href="https://github.com/raypal4/supersecretproject">
-  <img align="center" src="https://github-readme-stats-raypal4.vercel.app/api/pin/?username=raypal4&repo=supersecretproject&theme=dark" />
+  <img align="center" width="410" src="https://github-readme-stats-raypal4.vercel.app/api/pin/?username=raypal4&repo=supersecretproject&theme=dark" />
 </a>
 
 <h2>Currently Working On...</h2>
