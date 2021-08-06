@@ -50,11 +50,13 @@
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node.js)
 
-![Under Construction](https://github.com/raypal4/raypal4/blob/main/construction.gif "Konstruction")
+<!-- ![Under Construction](https://github.com/raypal4/raypal4/blob/main/construction.gif "Konstruction")
+ -->
+<img align="left" height="300px" src="https://github.com/raypal4/raypal4/blob/main/construction.gif/>
 
-<p>Link Here: <a href='https://raypal4.github.io'>https://raypal4.github.io</a></p>
-
-<p>and school work of course ~ </p>
+                                  
+<p align = "right">Link Here: <a href='https://raypal4.github.io'>https://raypal4.github.io</a></p>
+<p align = "right">and school work of course ~ </p>
 
 <h2>Let's Connect!</h2>
 
