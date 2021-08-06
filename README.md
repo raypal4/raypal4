@@ -50,11 +50,9 @@
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node.js)
 
-<!-- ![Under Construction](https://github.com/raypal4/raypal4/blob/main/construction.gif "Konstruction")
- -->
-<a href="https://github.com/raypal4">
-  <img align="center" height="300px" src="https://github.com/raypal4/raypal4/blob/main/construction.gif"/>
-</a>                              
+<p align="center">
+  <img height="300px" src="https://github.com/raypal4/raypal4/blob/main/construction.gif"/>
+</p>                     
 <p align="center">Link Here: <a href='https://raypal4.github.io'>https://raypal4.github.io</a></p>
 <p align="center">and school work of course ~ </p>
 
