@@ -12,7 +12,8 @@
 - :musical_keyboard: &nbsp; Playing random songs i like on youtube
 - ☕ &nbsp; Coffee makes the world go round. 
 
-
+<br>
+<br>
 <h2>Language and Tools</h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
