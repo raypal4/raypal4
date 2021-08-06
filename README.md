@@ -2,7 +2,7 @@
 
 <h2>Hello world! I'm Ray!</h2>
 
-- 🔭 &nbsp; I’m currently learning React Development
+- 🔭 &nbsp; I’m currently learning React!
 - 🤔 &nbsp; Love the hands on experience.
 - 🎓 &nbsp; Studying Software Engineering 
 - 💼 &nbsp; Aspiring Full-Stack Developer.
