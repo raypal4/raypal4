@@ -13,6 +13,8 @@
 <br>
 <h2>Language and Tools</h2>
 
+<p align="center">
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java)
@@ -28,6 +30,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=kotlin)
 ![WordPress](https://img.shields.io/badge/-WordPress-black?style=for-the-badge&logo=WordPress)
 
+</p>
 <h2>GitHub Stats</h2>
 
 <a href="https://github.com/raypal4">
