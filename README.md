@@ -4,10 +4,10 @@
 
 - 🔭 &nbsp; I’m currently learning React!
 - 🤔 &nbsp; Love the hands on experience.
-- 🎓 &nbsp; Studying Software Engineering 
+- 🎓 &nbsp; Studying Software Engineering. 
 - 💼 &nbsp; Aspiring Full-Stack Developer.
 - 🌱 &nbsp; Always excited about any new technologies.
-- :musical_keyboard: &nbsp; Playing random songs i like on youtube
+- :musical_keyboard: &nbsp; Playing random songs i like on youtube ~
 - ☕ &nbsp; Coffee makes the world go round. 
 <br>
 <br>
