@@ -13,7 +13,7 @@
 <br>
 <h2>Language and Tools</h2>
 
-<p align="center">
+<p text-align="center">
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
@@ -51,8 +51,12 @@
 
 <h2>Currently Working On...</h2>
 
+<p text-align="center">
+
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node.js)
+
+</p>
 
 <p align="center">
   <img height="300px" src="https://github.com/raypal4/raypal4/blob/main/construction.gif"/>
