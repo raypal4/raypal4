@@ -15,20 +15,20 @@
 
 <p align="center">
   
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Material Design](https://img.shields.io/badge/-Material-black?style=for-the-badge&logo=Material%20Design&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=kotlin)
-![WordPress](https://img.shields.io/badge/-WordPress-black?style=for-the-badge&logo=WordPress)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+  ![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java)
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+  ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+  ![Material Design](https://img.shields.io/badge/-Material-black?style=for-the-badge&logo=Material%20Design&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logo=kotlin)
+  ![WordPress](https://img.shields.io/badge/-WordPress-black?style=for-the-badge&logo=WordPress)
 
 </p>
 
